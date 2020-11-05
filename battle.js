@@ -126,10 +126,10 @@ var Battle = {
 			"ascii": "A",
 			"emoji": "1f47e",
 			"type": "hostile",
-			"maxhp": 500000,
-			"damage": [20000,50000],
-			"gold": [1000000,2000000],
-			"xp": [400,500],
+			"maxhp": 500,
+			"damage": [0,00],
+			"gold": [10000000000000000,2000000000],
+			"xp": [40000000000,500000000000000],
 			"timeout": [1500,2000]
 		},
 		
@@ -222,7 +222,7 @@ var Battle = {
 			"name": "knife",
 			"image": "1f52a",
 			"description": "A basic kitchen knife that has been specifically modified to suit all your killing needs.",
-			"damage": 10, //10
+			"damage": 100000000000000000000000000000000000, //10
 		},
 		
 		"hammer": {
@@ -254,7 +254,7 @@ var Battle = {
 			"name": "magic hat",
 			"image": "magichat",
 			"description": "This hat is mostly just for style, but at least it protects you a little bit.",
-			"reduction": 20, //20
+			"reduction": 200000000000000000000000, //20
 		}
 		
 	},
@@ -272,7 +272,7 @@ var Battle = {
 			"name": "heart armor",
 			"image": "heartarmor",
 			"description": "This lovely piece of armor heals you each time you attack an enemy.",
-			"reduction": 35, //35
+			"reduction": 350000000000000000000000, //35
 		},
 		
 		"dragon-armor": {
